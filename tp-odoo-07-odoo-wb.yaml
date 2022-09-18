@@ -35,7 +35,7 @@ spec:
                      key: odoo
         volumeMounts:
               - name: odoo-persistent-storage
-                mountPath: /var/lib/postgresql
+                mountPath: /var/lib/odoo
         resources: {}
       volumes:
          - name: odoo-persistent-storage
