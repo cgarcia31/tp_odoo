@@ -1,6 +1,6 @@
 # tp_odoo
 
-**Longhorn must be installed**
+**Longhorn must be installed on kubernetes**
 
 ## Step 1 : Generate a secret yaml file with the following command
 
