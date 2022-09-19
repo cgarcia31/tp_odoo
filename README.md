@@ -1,6 +1,6 @@
 # tp_odoo
 
-**Longhorn must be installed on the kubernetes cluster**
+**Longhorn must be installed on the kubernetes cluster : https://github.com/longhorn/charts**
 
 ## Step 1 : Generate a secret yaml file with the following command
 
